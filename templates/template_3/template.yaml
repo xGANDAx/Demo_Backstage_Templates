@@ -2,9 +2,11 @@ apiVersion: scaffolder.backstage.io/v1beta3
 # https://backstage.io/docs/features/software-catalog/descriptor-format#kind-template
 kind: Template
 metadata:
-  name: example-template-gh-3-v2
-  title: Example Template 3-v2 Github
+  name: example-template-gh-3-v0
+  title: Example Template 3-v0 Github
   description: An example template for the scaffolder that creates a simple Node.js service
+  annotations:
+    backstage.io/lifecycle: deprecated
 spec:
   owner: user:xGANDAx
   type: service
