@@ -5,8 +5,8 @@ metadata:
   name: example-template-gh-3-v0
   title: Example Template 3-v0 Github
   description: An example template for the scaffolder that creates a simple Node.js service
-  annotations:
-    backstage.io/lifecycle: deprecated
+  tags:
+    -Deprecated
 spec:
   owner: user:xGANDAx
   type: service
