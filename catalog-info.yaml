@@ -3,11 +3,6 @@ kind: Location
 metadata:
   name: backstage-templates
   description: An example of a Backstage templates.
-  # Example for optional annotations
-  # annotations:
-  #   github.com/project-slug: backstage/backstage
-  #   backstage.io/techdocs-ref: dir:.
 spec:
   targets:
-    - templates/template_1/template.yaml
     - templates/template_2/template.yaml
