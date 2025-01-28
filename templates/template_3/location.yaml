@@ -5,5 +5,4 @@ metadata:
   description: An example of a Backstage templates.
 spec:
   targets:
-    - https://github.com/xGANDAx/Demo_Backstage_Templates/blob/v1/templates/template_3/template.yaml
     - https://github.com/xGANDAx/Demo_Backstage_Templates/blob/v0/templates/template_3/template.yaml
