@@ -4,5 +4,6 @@ metadata:
   name: backstage-templates
   description: An example of a Backstage templates.
 spec:
+  type: url
   targets:
     - https://github.com/xGANDAx/Demo_Backstage_Templates/blob/v0/templates/template_3/template.yaml
