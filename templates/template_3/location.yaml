@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: backstage-templates
+  name: backstage-templates-2
   description: An example of a Backstage templates.
 spec:
   type: url
