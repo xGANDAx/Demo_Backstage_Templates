@@ -5,4 +5,5 @@ metadata:
   description: An example of a Backstage templates.
 spec:
   targets:
+    - templates/template_1/template.yaml
     - templates/template_2/template.yaml
