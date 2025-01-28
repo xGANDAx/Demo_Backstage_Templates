@@ -7,4 +7,4 @@ spec:
   targets:
     - templates/template_1/template.yaml
     - templates/template_2/template.yaml
-    - templates/template_3/template.yaml
+    - templates/template_3/location.yaml
